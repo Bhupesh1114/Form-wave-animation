@@ -90,8 +90,8 @@ body {
 }
 
 
-@media(max-width:100px){
+@media(max-width:1000px){
     .container{
-        text-align: center;
+        margin: 20px;
     }
 }
