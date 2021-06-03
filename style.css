@@ -89,3 +89,9 @@ body {
     transform: translateY(-30px);
 }
 
+
+@media(max-width:100px){
+    .container{
+        text-align: center;
+    }
+}
